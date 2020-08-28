@@ -1,1 +1,1 @@
-This folder is containing all tempplates used to edit/write documents/articles.
+This folder is containing all templates used to edit/write documents/articles.
