@@ -1,11 +1,3 @@
-<!--This template is used to write/edit documents/articles -->
+<!--This template is used to write/edit documents/articles/scripts -->
 
-# SUMMARY
-
-# DETAILS
-
-# OS/ENVIRONMENT Support
-
-# USAGE
-
-# UPDATE
+# VARIABLES
