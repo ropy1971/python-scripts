@@ -1,4 +1,5 @@
-# python-scripts
+
+# PYTHON-SCRIPTS
 
 # Status
 
@@ -10,4 +11,6 @@
 
 # License
 
-# Last update: 2020.08.26
+Check the License file.
+
+# Last update: 2021.03.14
