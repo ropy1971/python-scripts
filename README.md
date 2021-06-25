@@ -5,9 +5,11 @@
 
 ## status
 
-[PUBLIC]
+the current status for this repository is:
 
-## folders organization
+- [PUBLIC]
+
+## content
 
 ## comments
 
@@ -15,4 +17,4 @@
 
 Check the license file.
 
-## last update: 2021.06.22
+## last updates: 2021.06.25
